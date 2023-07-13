@@ -1,7 +1,7 @@
-#include <stidio.h>
+#include <stdio.h>
 
 /**
- * main - Aprogram to print using the print function
+ * main - A program to print using the print function
  * Return: 0 (Success)
  */
 
