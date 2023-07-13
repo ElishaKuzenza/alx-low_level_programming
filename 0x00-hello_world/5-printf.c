@@ -2,7 +2,7 @@
 
 /**
  * main - Aprogram to print using the print function
- * Return: o (Success)
+ * Return: 0 (Success)
  */
 
 int main(void)
