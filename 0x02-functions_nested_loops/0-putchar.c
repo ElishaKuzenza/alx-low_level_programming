@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <main.h>
 /**
  * main - Aprogram to print a _putchar followed by new line.
  * Return: 0 (Success);
